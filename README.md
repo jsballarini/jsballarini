@@ -1,4 +1,4 @@
-# 👋 Olá, ne chamo Juliano Ballarini.  
+# 👋 Olá, me chamo Juliano.  
 
 Sou **Desenvolvedor Full-Stack** com experiência em criar soluções e-commerces, SaaS e aplicativos mobile. Tenho foco em construir sistemas escaláveis, integrados e de alta performance.
   
