@@ -1,7 +1,7 @@
 # 👋 Olá, ne chamo Juliano Ballarini.  
 
-Sou **Desenvolvedor Full-Stack** e **Arquiteto de Integrações**, atuando na criação de **aplicações SaaS, e-commerces e aplicativos mobile**. Trabalho com **WordPress/WooCommerce**, mas também construo **APIs em FastAPI e .NET**, **frontends em React.js**, **aplicativos mobile em Flutter/Dart** e **integrações complexas** entre plataformas.  
-
+Sou **Desenvolvedor Full-Stack** com experiência em criar soluções e-commerces, SaaS e aplicativos mobile. Tenho foco em construir sistemas escaláveis, integrados e de alta performance.
+  
 Tenho experiência prática em **desenvolvimento multiplataforma**, **automação de processos**, **integrações via API** e **soluções escaláveis**, sempre com foco em **performance, segurança e usabilidade**.
 
 ---
