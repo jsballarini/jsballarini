@@ -1,6 +1,6 @@
 # 👋 Olá, me chamo Juliano.  
 
-Sou **Desenvolvedor Full-Stack** com experiência em criar soluções e-commerces, SaaS e aplicativos mobile. Tenho foco em construir sistemas escaláveis, integrados e de alta performance.
+Sou **Desenvolvedor Full-Stack** com experiência em criar soluções de integração, e-commerces, SaaS e aplicativos mobile. Tenho foco em construir sistemas escaláveis, integrados e de alta performance.
   
 Tenho experiência prática em **desenvolvimento multiplataforma**, **automação de processos**, **integrações via API** e **soluções escaláveis**, sempre com foco em **performance, segurança e usabilidade**.
 
