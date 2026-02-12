@@ -40,10 +40,12 @@ Estou em processo de retorno ao mercado de desenvolvimento e aberto a **novas op
 ---
 
 ## 📌 Projetos em Destaque
+- **BallaPDF** → Gerador de PDF/A-4f com Compliance e verificação com veraPDF.org. (private)
+- **Perseus Hub** → Sistema de Integração Backoffice para Instituições de Ensino. (private)
+- **Legado em Movimento** → Novo sistema social para empréstimo de cadeiras de rodas **Instituto Bernardo Ferreira**.  
 - **Autoralis** → Registro digital de direitos autorais, com provas criptográficas SHA-256, certificados em PDF e integração WooCommerce.  
 - **Movimento Livre** → Sistema social para empréstimo de cadeiras de rodas, em parceria com o **Instituto Bernardo Ferreira**.  
 - **PetStore.com.br** → E-commerce pet no WooCommerce + app mobile em Flutter.  
-- **Outros que não posso citar no momento**
 
 ---
 
