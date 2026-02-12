@@ -16,7 +16,7 @@ Tenho experiência prática em **desenvolvimento multiplataforma**, **automaçã
 - **Python (FastAPI/SQLModel)** - Projetos em desenvolvimento: Backend BallaPDF com FastAPI, Backend de Aplicativo de Gerenciamento de Fotos Online com FastAPI, Profissionais SaaS com FastAPI
 - **Next.js**. - Projeto em Desenvolvimento: Backend Legado em Movimento.
 - **React.js**. - Projeto em Desenvolvimento: Frontend Legado em Movimento, Frontend Aplicativo de Gerenciamento de Fotos Online
-- **.NET/C# (Blazor)** - Projetos em produção: ![Perseus Hub](https://hub.perseus.com.br/)
+- **.NET/C# (Blazor)** - Projetos em produção: [Perseus Hub](https://hub.perseus.com.br/)
 - **MySQL, SQL Server, Postgree, SQLite**
 
 - Apaixonado por criar e desenvolver soluções.  
