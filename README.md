@@ -36,13 +36,76 @@ Tenho experiência prática em **desenvolvimento multiplataforma**, **automaçã
 ---
 
 ## Projetos em Destaque
-- **BallaPDF** → Gerador de PDF/A-4f com Compliance e verificação com veraPDF.org. (private)
-- **Perseus Hub** → Sistema de Integração Backoffice para Instituições de Ensino. (private)
-- **Legado em Movimento** → Novo sistema social para empréstimo de cadeiras de rodas **Instituto Bernardo Ferreira**.  
-- **Autoralis** → Registro digital de direitos autorais, com provas criptográficas SHA-256, certificados em PDF e integração WooCommerce.  
-- **Movimento Livre** → Sistema social para empréstimo de cadeiras de rodas, em parceria com o **Instituto Bernardo Ferreira**.  
-- **PetStore.com.br** → E-commerce pet no WooCommerce + app mobile em Flutter.  
 
+### **BallaPDF** → Gerador de PDF/A-4f com Compliance e verificação com veraPDF.org. (private)
+
+#### Stack Tecnológica Atual
+- **Backend**: Python 3.12, FastAPI, SQLAlchemy 2.0 (Async), Pydantic v2.
+- **Templates**: Jinja2 3.1+.
+- **DB**: PostgreSQL 16 (Driver Psycopg 3).
+- **Auth**: PyJWT (RSA/HMAC), Argon2id.
+- **Infra**: Docker Compose, GitHub Actions.
+- **Frontend**: Next.js (apenas scaffold, sem logica de negócio profunda ainda).
+
+### **Perseus Hub** → Sistema de Integração Backoffice para Instituições de Ensino. (private)
+
+#### Stack Tecnológico
+- **Framework**: .NET 9
+- **UI Framework**: Blazor Server
+- **Banco de Dados**: SQL Server com Entity Framework Core
+- **Logging**: Serilog com múltiplos sinks
+- **Autenticação**: Múltiplos providers (None, Basic, OAuth2, CustomLogin)
+- **Frontend**: TailAdmin CSS com TailwindCSS
+- **Arquitetura**: Clean Architecture com injeção de dependência
+
+  
+### **Legado em Movimento** → Novo sistema social para empréstimo de cadeiras de rodas **Instituto Bernardo Ferreira**.  
+
+#### Stack Tecnológica
+
+##### Backend
+- **Runtime:** Node.js 18+ (LTS)
+- **Framework:** Express.js
+- **ORM:** Prisma
+- **Banco de Dados:** MySQL 8
+- **Validação:** Zod
+- **Autenticação:** JWT (access + refresh)
+- **OAuth:** Google OAuth 2.0
+
+##### Frontend
+- **Framework:** React 18+
+- **Build:** Vite
+- **Styling:** TailwindCSS
+- **Template:** TailAdmin
+- **Forms:** React Hook Form + Zod
+
+##### Infraestrutura
+- **Containers:** Docker + Docker Compose
+- **Package Manager:** pnpm
+- **Monorepo:** pnpm workspaces
+- **Ambiente:** dotenv + validação Zod
+
+
+### **Autoralis** → Registro digital de direitos autorais, com provas criptográficas SHA-256, certificados em PDF e integração WooCommerce. 
+
+#### Stack Tecnológica
+- PHP, WordPress/WooCommerce
+- MySQL, MariaDB
+- HTML/CSS
+
+### **Movimento Livre** → Sistema social para empréstimo de cadeiras de rodas, em parceria com o **Instituto Bernardo Ferreira**.  
+
+#### Stack Tecnológica
+- PHP, WordPress/WooCommerce
+- MySQL, MariaDB
+- HTML/CSS
+
+### **PetStore.com.br** → E-commerce pet no WooCommerce + app mobile em Flutter.  
+
+#### Stack Tecnológica
+- PHP, WordPress/WooCommerce
+- MySQL, MariaDB
+- HTML/CSS
 ---
 
 ## Metodologia de Trabalho
