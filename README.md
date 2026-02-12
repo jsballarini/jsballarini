@@ -1,4 +1,4 @@
-# 👋 Olá, me chamo Juliano.  
+# Olá, me chamo Juliano.  
 
 Sou **Desenvolvedor Full-Stack** com experiência em criar soluções de integração, e-commerces, SaaS e aplicativos mobile. Tenho foco em construir sistemas escaláveis, integrados e de alta performance.
   
@@ -6,24 +6,20 @@ Tenho experiência prática em **desenvolvimento multiplataforma**, **automaçã
 
 ---
 
-## 🎯 Oportunidades
+## Sobre mim
+- Experiência prática em **WordPress/WooCommerce**, com integrações avançadas.  
+- **Google Tools** (Analytics, Tag Manager, Ads, Merchant Center, Search Console).  
+- **integração de ERPs** (Bling, Tiny, outros via API).  
+- **gateways de pagamento** (Mercado Pago, Pagar.me, Asaas, PagHiper).  
+- Criação de **e-commerces completos** com WooCommerce.  
+- Desenvolvimento de **apps mobile em Flutter** (offline-first com SQLite + sincronização FastAPI).  - Projeto em desenvolvimento: Profissionais SaaS
+- **Python (FastAPI/SQLModel)** - Projetos em desenvolvimento: Backend BallaPDF com FastAPI, Backend de Aplicativo de Gerenciamento de Fotos Online com FastAPI, Profissionais SaaS com FastAPI
+- **Next.js**. - Projeto em Desenvolvimento: Backend Legado em Movimento.
+- **React.js**. - Projeto em Desenvolvimento: Frontend Legado em Movimento, Frontend Aplicativo de Gerenciamento de Fotos Online
+- **.NET/C# (Blazor)** - Projetos em produção: ![Perseus Hub](https://hub.perseus.com.br/)
+- **MySQL, SQL Server, Postgree, SQLite**
 
-Estou em processo de retorno ao mercado de desenvolvimento e aberto a **novas oportunidades**. Apesar de não ter experiência formal na área de desenvolvimento, trago uma bagagem sólida em projetos próprios, estudo contínuo e muita **vontade de aprender e crescer profissionalmente**. Busco desafios que me permitam aplicar minhas habilidades, colaborar em equipe e evoluir como desenvolvedor.
-
----
-
-## 🚀 Sobre mim
-- 💻 4 anos de experiência prática em **WordPress/WooCommerce**, com integrações avançadas.  
-- 📊 **Google Tools** (Analytics, Tag Manager, Ads, Merchant Center, Search Console).  
-- ⚙️ **integração de ERPs** (Bling, Tiny, outros via API).  
-- 📦 **gateways de pagamento** (Mercado Pago, Pagar.me, Asaas, PagHiper).  
-- 🛒 Criação de **e-commerces completos** com WooCommerce.  
-- 📱 Desenvolvimento de **apps mobile em Flutter** (offline-first com SQLite + sincronização FastAPI).  
-- 🌐 **Python (FastAPI/SQLModel)** 
-- 🌐 **React.js**.  
-- 🛠️ **.NET/C# (Blazor)**.  
-
-- ❤️ Apaixonado por criar soluções que unem **tecnologia e impacto social**.  
+- Apaixonado por criar e desenvolver soluções.  
 
 ---
 
@@ -39,7 +35,7 @@ Estou em processo de retorno ao mercado de desenvolvimento e aberto a **novas op
 
 ---
 
-## 📌 Projetos em Destaque
+## Projetos em Destaque
 - **BallaPDF** → Gerador de PDF/A-4f com Compliance e verificação com veraPDF.org. (private)
 - **Perseus Hub** → Sistema de Integração Backoffice para Instituições de Ensino. (private)
 - **Legado em Movimento** → Novo sistema social para empréstimo de cadeiras de rodas **Instituto Bernardo Ferreira**.  
@@ -49,19 +45,17 @@ Estou em processo de retorno ao mercado de desenvolvimento e aberto a **novas op
 
 ---
 
-## 🏗️ Metodologia de Trabalho
+## Metodologia de Trabalho
 - Código **modular, limpo e documentado**  
 - Uso de **boas práticas de cada linguagem/framework**  
 - **Componentização e reutilização** máxima  
 - **Commits padronizados** (Conventional Commits)  
 - Documentação em **Markdown** (`README.md`, `CHANGELOG.md`, `TODO.md`, etc.)  
-- **Versionamento SemVer**  
-- Ambiente principal: **Windows/PowerShell**  
 
 ---
 
-## 📫 Onde me encontrar
-- 🌍 [LinkedIn](https://www.linkedin.com/in/juliano-ballarini-703098ba/)   
+## Onde me encontrar
+- [LinkedIn](https://www.linkedin.com/in/juliano-ballarini-703098ba/)   
 
 ---
 
