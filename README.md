@@ -89,17 +89,3 @@ Sou um Desenvolvedor Full-Stack apaixonado por criar soluções de integração,
 - **Commits:** Padronização com Conventional Commits.
 - **Documentação:** README.md, CHANGELOG.md e TODO.md sempre atualizados.
  
----
-
-### 🏆 Sobre este Repositório
-
-Este projeto foi desenvolvido como submissão para o **Desafio GitHub Markdown**. 
-
-O objetivo foi criar um perfil de desenvolvedor completo, visualmente atraente e automatizado, utilizando todo o poder do Markdown e das ferramentas do ecossistema GitHub.
-
-**Recursos utilizados:**
-*   **GitHub Actions:** Workflow automatizado para geração diária de métricas (`metrics.yml`).
-*   **Lowlighter Metrics:** Geração de cards de estatísticas personalizados (Template Classic).
-*   **Shields.io:** Badges informativas para Tech Stack e Contatos.
-*   **Streak Stats:** Acompanhamento visual de contribuições contínuas.
-*   **Markdown Avançado:** Uso de tabelas, alinhamentos e formatação ricas
