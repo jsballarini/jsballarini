@@ -63,13 +63,6 @@ Sou um Desenvolvedor Full-Stack apaixonado por criar soluções de integração,
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/jsballarini">
-  
-  <!-- Metrics (Simple & Classic) -->
-  <img width="50%" src="./github-metrics.svg" alt="Metrics" />
-  
-  <br/>
-
   <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com/?user=jsballarini&theme=dracula&hide_border=true" alt="GitHub Streak" />
   </a>
