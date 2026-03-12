@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Olá, eu sou Juliano Ballarini 👋</h1>
+  <h1 align="center">Olá, sou Juliano Ballarini</h1>
   <h3 align="center">Desenvolvedor Full-Stack</h3>
   
   <p align="center">
